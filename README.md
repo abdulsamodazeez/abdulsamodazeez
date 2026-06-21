@@ -85,7 +85,6 @@ I'm a **Machine Learning Engineer** with **3+ years** of experience designing, b
 
 I'm open to roles, collaborations, and conversations about AI, ML, and using data to solve hard problems.
 
-- 🌐 **Portfolio:** [abdulsamodazeez.com](https://abdulsamodazeez.com)
 - 📧 **Email:** abdulsamod2@gmail.com
 - 💼 **LinkedIn:** [in/abdulsamodazeez](https://www.linkedin.com/in/abdulsamodazeez)
 
